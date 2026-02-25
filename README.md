@@ -23,10 +23,6 @@ aprendendo C# com ASP.NET e .NET
 
 ## contato
 
-<a href="https://github.com/MurilloTercariol">
-  <img src="https://img.shields.io/badge/GitHub-MurilloTercariol-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="https://www.linkedin.com/in/murillo-oliveira-ter%C3%A7ariol-904b85262/">
   <img src="https://img.shields.io/badge/LinkedIn-Murillo%20Terçariol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
