@@ -1,65 +1,35 @@
 # Murillo
 
 estudante de análise e desenvolvimento de sistemas  
-interessado principalmente em backend e lógica  
+focado em backend, lógica e sistemas bem estruturados  
 
-atualmente aprendendo C# com ASP.NET e .NET
+aprendendo C# com ASP.NET e .NET
 
 ---
 
-## stack atual
-
-backend:
-- C#
-- PHP
-- SQL
-
-frontend:
-- HTML
-- CSS
-- JavaScript
-
-outros:
-- Git
-- MySQL
-- lógica e estrutura de dados
+## stack
+C# • PHP • SQL  
+HTML • CSS • JavaScript  
+Git • MySQL • Estrutura de Dados  
 
 ---
 
 ## projetos
-
-algumas coisas que já desenvolvi ou estou desenvolvendo:
-
-- Página de documentação sobre um sistema ERP
-- sistema kanban em PHP
-- projetos web com integração com banco de dados
-- estudos com ASP.NET e backend em C#
+- Página de documentação para sistema ERP  
+- Sistema Kanban em PHP  
+- Projetos web com integração a banco de dados  
+- Estudos e APIs com ASP.NET  
 
 ---
 
 ## objetivo
-
-me tornar um desenvolvedor backend sólido, com foco em .NET e sistemas bem estruturados.
-
----
-
-## github stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+me tornar um desenvolvedor backend sólido com foco em .NET
 
 ---
 
-## atualmente
-
-aprendendo mais sobre:
-
-- ASP.NET
-- arquitetura backend
-- boas práticas
-- escrever código limpo e organizado
+![stats](https://github-readme-stats.vercel.app/api?username=MurilloTercariol&show_icons=true&theme=dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloTercariol&layout=compact&theme=dark)
 
 ---
 
-construindo, errando, aprendendo e melhorando.
+construindo, errando, aprendendo e evoluindo.
