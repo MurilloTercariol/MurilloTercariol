@@ -1,36 +1,41 @@
 # Murillo
 
-Estudante de análise e desenvolvimento de sistemas  
-focado em backend e sistemas bem estruturados  
+backend em construção.
 
-Aprendendo C# com ASP.NET e .NET
-
----
-
-## Stack
-C# • PHP • SQL • MySQL  
-HTML • CSS • JavaScript  
-Git • Estrutura de Dados  
+estudante de análise e desenvolvimento de sistemas  
+aprendendo C# com ASP.NET e .NET  
 
 ---
 
-## Projetos
-- documentação para sistema ERP  
-- sistema kanban em PHP  
-- projetos web com banco de dados  
-- estudos e APIs com ASP.NET  
+## stack
+
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 ---
 
-## Objetivo
-Me tornar um desenvolvedor backend sólido com foco em .NET
+## contato
+
+<a href="https://github.com/MurilloTercariol">
+  <img src="https://img.shields.io/badge/GitHub-MurilloTercariol-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/murillo-oliveira-ter%C3%A7ariol-904b85262/">
+  <img src="https://img.shields.io/badge/LinkedIn-Murillo%20Terçariol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:murillotercariol@gmail.com">
+  <img src="https://img.shields.io/badge/Email-murillotercariol@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloTercariol&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloTercariol&theme=tokyonight" />
-
----
-
-Construindo, errando, aprendendo e evoluindo.
+construindo, aprendendo e evoluindo.
