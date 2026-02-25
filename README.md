@@ -1,35 +1,36 @@
 # Murillo
 
-estudante de análise e desenvolvimento de sistemas  
-focado em backend, lógica e sistemas bem estruturados  
+Estudante de análise e desenvolvimento de sistemas  
+focado em backend e sistemas bem estruturados  
 
-aprendendo C# com ASP.NET e .NET
+Aprendendo C# com ASP.NET e .NET
 
 ---
 
-## stack
-C# • PHP • SQL  
+## Stack
+C# • PHP • SQL • MySQL  
 HTML • CSS • JavaScript  
-Git • MySQL • Estrutura de Dados  
+Git • Estrutura de Dados  
 
 ---
 
-## projetos
-- Página de documentação para sistema ERP  
-- Sistema Kanban em PHP  
-- Projetos web com integração a banco de dados  
-- Estudos e APIs com ASP.NET  
+## Projetos
+- documentação para sistema ERP  
+- sistema kanban em PHP  
+- projetos web com banco de dados  
+- estudos e APIs com ASP.NET  
 
 ---
 
-## objetivo
-me tornar um desenvolvedor backend sólido com foco em .NET
+## Objetivo
+Me tornar um desenvolvedor backend sólido com foco em .NET
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=MurilloTercariol&show_icons=true&theme=dark)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloTercariol&layout=compact&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=MurilloTercariol&show_icons=true&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloTercariol&layout=compact&theme=tokyonight)
 
 ---
 
-construindo, errando, aprendendo e evoluindo.
+Construindo, errando, aprendendo e evoluindo.
