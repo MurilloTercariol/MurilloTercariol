@@ -27,9 +27,9 @@ Me tornar um desenvolvedor backend sólido com foco em .NET
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=MurilloTercariol&show_icons=true&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloTercariol&theme=tokyonight" />
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloTercariol&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloTercariol&theme=tokyonight" />
 
 ---
 
